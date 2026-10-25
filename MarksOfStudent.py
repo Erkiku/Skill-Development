@@ -15,4 +15,4 @@ else:
   if(marks<60):
     print("Better Luck Next Time")
   else: 
-    print("Better Luck Next Time!")
+    print("Please Enter a Vaild Marks!")
